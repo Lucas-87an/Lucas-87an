@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro, Estudante de Análise e Desenvolvimento de Sistemas 👋
 
-- 📖 Estudando Reactjs
+- 📖 Estudando Reactjs e Nodejs
 - ⚽ Gosto de jogar futebol
 - 🔎 Estou procurando emprego como Programador Front-end
 
