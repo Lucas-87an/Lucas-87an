@@ -2,7 +2,7 @@
 
 - 📖 Estudando Reactjs e Nodejs
 - ⚽ Gosto de jogar futebol
-- 🔎 Estou procurando emprego como Programador Front-end
+- 🔎 Estou procurando emprego como Programador Back-end
 
 
 <div align="center">
