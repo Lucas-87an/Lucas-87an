@@ -1,5 +1,4 @@
 ### Olá! Eu sou o Pedro, Estudante de Análise e Desenvolvimento de Sistemas 👋
-### OLÁ
 
 - ⚽ Gosto de jogar futebol
 - Python Developer 
