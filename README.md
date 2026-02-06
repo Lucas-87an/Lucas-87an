@@ -1,7 +1,10 @@
-### Olá! Eu sou o Pedro, Estudante de Análise e Desenvolvimento de Sistemas 👋
+### Olá! Eu sou o Pedro, Analisa de dados 👋
 
 - ⚽ Gosto de jogar futebol
-- Python Developer 
+- Python Developer
+- SQL
+- Power BI
+- N8n 
 
 
 <div align="center">
