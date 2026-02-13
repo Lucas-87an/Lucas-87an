@@ -1,4 +1,4 @@
-### Olá! Eu sou o Pedro, Analisa de dados 👋
+### Olá! Eu sou o Pedro, Analista de dados 👋
 
 - ⚽ Gosto de jogar futebol
 - Python Developer
